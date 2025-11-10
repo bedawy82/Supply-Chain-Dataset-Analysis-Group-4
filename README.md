@@ -58,7 +58,7 @@ The project was completed in **two phases** (Week 1 & Week 2) as part of our dat
 | Name | Role |
 |------|------|
 | **Basant Mohamed Reda El-Samahy** | Data Analyst – Data Cleaning & Modeling |
-| **Mostafa Mohamed Moharem** | Data Analyst – SQL & Exploratory Analysis |
+| **Mostafa Mohamed Moharm** | Data Analyst – SQL & Exploratory Analysis |
 | **Ahmed El-Sayed Ahmed Foda** | Python Developer – Data Visualization |
 | **Mohamed El-Sayed Mohamed El-Badawy** | Data Analyst – Reporting & Insights |
 | **Sameh Sobhy Ali Abdelhady** | Project Coordinator – Documentation & Quality Review |
