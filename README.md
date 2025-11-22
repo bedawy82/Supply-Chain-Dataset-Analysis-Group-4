@@ -2,7 +2,7 @@
 
 ### 📊 Project Overview
 This project focuses on analyzing a **Supply Chain dataset** to generate insights that help organizations improve operational efficiency and decision-making.  
-The project was completed in **two phases** (Week 1 & Week 2) as part of our data analytics training.
+The project was completed in **four phases** (Week 1 – Week 4) as part of our data analytics training.
 
 ---
 
@@ -41,11 +41,43 @@ The project was completed in **two phases** (Week 1 & Week 2) as part of our dat
 
 ---
 
+### 🔹 Week 3 – Forecasting Questions Phase
+**Tasks:**
+- Determine a set of forecasting questions.
+- Answer them using trends found in the dataset.
+- Build visualizations to support forecasting insights.
+
+**Tools Used:**
+- 🐍 Python (scikit-learn, pandas, Matplotlib)
+
+**Deliverables:**
+- Visualization plots answering forecasting questions
+- Forecasting analysis notebook (`WEEK 3/forecasting_analysis.ipynb`)
+
+---
+
+### 🔹 Week 4 – Visualization Dashboard and Final Presentation
+**Tasks:**
+- Build a **Visualization Dashboard**: Tableau dashboard to visualize answers to all questions.
+- Prepare **Final Report and Presentation** summarizing project work, including data analysis, model development, and deployment.
+
+**Tools Used:**
+- SQL
+- 🐍 Python (pandas, Matplotlib)
+- Tableau
+
+**Deliverables:**
+- Visualization dashboard (`WEEK 4/visualization_dashboard.twbx`)
+- Final report (`WEEK 4/final_report.pdf`) and presentation (`WEEK 4/final_presentation.pptx`)
+
+---
+
 ## 🧰 Tools & Technologies
-- **Python** (Pandas, Matplotlib, NumPy)
+- **Python** (Pandas, Matplotlib, NumPy, scikit-learn)
 - **Google Colab**
 - **SQL**
 - **Jupyter Notebooks**
+- **Tableau**
 - **GitHub** for collaboration
 
 ---
@@ -58,7 +90,7 @@ The project was completed in **two phases** (Week 1 & Week 2) as part of our dat
 | Name | Role |
 |------|------|
 | **Basant Mohamed Reda El-Samahy** | Data Analyst – Data Cleaning & Modeling |
-| **Mostafa Mohamed Moharm** | Data Analyst – SQL & Exploratory Analysis |
+| **Mostafa Mohamed Moharem** | Data Analyst – SQL & Exploratory Analysis |
 | **Ahmed El-Sayed Ahmed Foda** | Python Developer – Data Visualization |
 | **Mohamed El-Sayed Mohamed El-Badawy** | Data Analyst – Reporting & Insights |
 | **Sameh Sobhy Ali Abdelhady** | Project Coordinator – Documentation & Quality Review |
@@ -68,15 +100,18 @@ The project was completed in **two phases** (Week 1 & Week 2) as part of our dat
 ## 🏁 Outcome
 By the end of the project, our team:
 - Built a robust data model and prepared a clean dataset.
-- Formulated relevant business questions for supply chain optimization.
-- Prepared notebooks ready for visualization and decision-support analysis.
+- Formulated relevant business and forecasting questions.
+- Generated visualization plots to support forecasting analysis.
+- Built a Tableau dashboard to visualize answers.
+- Prepared a final report and presentation summarizing the project.
 
 ---
 
 ## 💡 Next Steps
-- Add Power BI dashboard for visual storytelling.
-- Automate data updates using Python scripts.
-- Extend analysis to include predictive models for demand forecasting.
+- Extend forecasting models for predictive analytics.
+- Automate dashboard updates with live data feeds.
+- Explore additional visualization techniques in Tableau.
+- Add Power BI dashboard for enhanced visual storytelling.
 
 ---
 
